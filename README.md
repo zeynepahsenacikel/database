@@ -18,7 +18,7 @@
 * The system processes a batch of commands from a text file provided as a command-line argument:
 ```python3 database.py commands.txt```
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 * Language: Python 3.x
 
 * Modules: sys (for command-line arguments and file I/O)
